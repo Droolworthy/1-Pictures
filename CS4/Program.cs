@@ -8,7 +8,7 @@ namespace CS4
         {
             int picturesRow = 3;
             int picturesАlbum = 52;
-            int filledRow = picturesАlbum/picturesRow;
+            int filledRow = 52/3;
             int beyondMeasure = 52;
             Console.WriteLine(filledRow);
             Console.WriteLine(beyondMeasure);
